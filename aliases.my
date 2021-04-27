@@ -1,0 +1,8 @@
+alias cp='cp -i' 
+alias grep='grep --color=auto'
+alias ll='ls --color=auto -l'
+alias ln='ln -i' 
+alias mount='mount |column -t' alias mv='mv -i'
+alias psmem='ps auxf | sort -nr -k 4'
+alias k='kubectl'
+alias kg='kubectl get'
